@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Jayanth Kumar N</h1>
 <h3 align="center">Final Year Information Science Engineering Student | React Developer | Java | Python Enthusiast</h3>
 
@@ -139,4 +138,3 @@ A collection of React.js mini-projects built while learning modern frontend deve
 <h4 align="center">
 ⭐ If you like my work, consider giving a star to my repositories! ⭐
 </h4>
-```
