@@ -1,104 +1,124 @@
 <h1 align="center">Hi 👋, I'm Jayanth Kumar N</h1>
 
 <h3 align="center">
-Final Year Information Science Engineering Student | React Developer | Java | Python
+Information Science Engineering Graduate | React Developer | Java Developer | Python Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;React+Developer;Java+Developer;Python+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Information+Science+Engineering+Graduate;React+Developer;Java+Developer;Python+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 Final Year Information Science Engineering Student
-- 💻 Passionate about Web Development and Java Development
-- 🌱 Currently learning **React.js, Firebase, SQL and DSA**
-- 🚀 Interested in Frontend, Full Stack and Java Development
-- 📍 Bengaluru, India
+🎓 Information Science Engineering Graduate
+
+💻 Passionate about building modern, user-friendly web applications.
+
+🌱 Currently improving my skills in:
+- React.js
+- Java
+- Python
+- SQL
+- Firebase
+
+🎯 Career Objective
+
+I am a motivated Information Science Engineering graduate seeking an opportunity as a Software Developer where I can apply my technical knowledge, continuously learn new technologies, and contribute to real-world projects.
+
+📍 Bengaluru, Karnataka, India
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Skills
 
-<p align="center">
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,firebase,mysql,git,github,vscode&perline=6"/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</p>
+### Frontend
 
----
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-# 📊 GitHub Stats
+### Database
 
-<p align="center">
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jayanth00412&show_icons=true&theme=tokyonight&hide_border=true"/>
+### Tools
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanth00412&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Jayanth00412&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jayanth00412&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayanth00412&theme=tokyo-night"/>
-
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 # 💼 Featured Projects
 
-### 🚨 Suraksha Setu
+## 🚨 Suraksha Setu
 
-Citizen Safety Reporting Application that allows users to report public issues with image and location support.
+A citizen safety application that enables users to report public issues with image and location support.
 
-### 🌍 Travel Explorer Website
+**Technologies Used**
 
-Responsive tourism website built using HTML, CSS and JavaScript.
+- HTML
+- CSS
+- JavaScript
+- Firebase
 
-### 📋 AI Attendance System
+---
 
-Attendance management system built using React and Firebase.
+## 🌍 Travel Explorer Website
 
-### ⚛ React Projects
+A responsive tourism website showcasing famous places with an attractive UI.
 
-A collection of React.js mini projects and UI components.
+**Technologies Used**
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📋 AI Attendance System
+
+An attendance management application developed using React and Firebase.
+
+**Technologies Used**
+
+- React.js
+- Firebase
+
+---
+
+## 📚 React Learning Projects
+
+A collection of React.js projects developed while learning modern frontend development.
 
 ---
 
 # 🌱 Currently Learning
 
-- ⚛ React.js
-- 🔥 Firebase
-- ☕ Java
-- 🗄 SQL
-- 📚 Data Structures & Algorithms
+- React.js
+- Java
+- SQL
+- Firebase
+- Data Structures & Algorithms
+
+---
+
+# 🎓 Education
+
+**Bachelor of Engineering (Information Science Engineering)**
+
+A P S College of Engineering
+
+Bengaluru, Karnataka
 
 ---
 
@@ -133,13 +153,9 @@ A collection of React.js mini projects and UI components.
 ---
 
 <h2 align="center">
-
-✨ Thanks for visiting my GitHub Profile! ✨
-
+✨ Thank you for visiting my GitHub Profile! ✨
 </h2>
 
 <p align="center">
-
-⭐ If you like my work, don't forget to star my repositories!
-
+⭐ If you find my projects helpful, consider giving them a star.
 </p>
