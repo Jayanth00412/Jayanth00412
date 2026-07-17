@@ -85,16 +85,6 @@ A responsive tourism website showcasing famous places with an attractive UI.
 
 ---
 
-## 📋 AI Attendance System
-
-An attendance management application developed using React and Firebase.
-
-**Technologies Used**
-
-- React.js
-- Firebase
-
----
 
 ## 📚 React Learning Projects
 
